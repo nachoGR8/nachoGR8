@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/27f6b0af-2046-49e7-a750-eb5ac370a7a0" />
+
+
 <h1 align="center">👋 ¡Hola! Soy Ignacio Piles Pla</h1>
 
 <p align="center">
